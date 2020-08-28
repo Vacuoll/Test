@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\olya-\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\olya-\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Test.-370827639.00" t="ExcludeRecursive" />
+    <e p="C:\Users\olya-\Test" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Joystick Pack" t="Include">
+          <e p="Examples" t="Include">
+            <e p="JoystickPlayerExample.cs" t="Include" />
+            <e p="JoystickSetterExample.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Base" t="Include">
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="DynamicJoystickEditor.cs" t="Include" />
+              <e p="FloatingJoystickEditor.cs" t="Include" />
+              <e p="JoystickEditor.cs" t="Include" />
+              <e p="VariableJoystickEditor.cs" t="Include" />
+            </e>
+            <e p="Joysticks" t="Include">
+              <e p="DynamicJoystick.cs" t="Include" />
+              <e p="FixedJoystick.cs" t="Include" />
+              <e p="FloatingJoystick.cs" t="Include" />
+              <e p="VariableJoystick.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Button" t="Include">
+            <e p="ButtonsManager.cs" t="Include" />
+          </e>
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="ColorChanger" t="Include">
+            <e p="ColorChange.cs" t="Include" />
+            <e p="CubesFollow.cs" t="Include" />
+            <e p="Destroyer.cs" t="Include" />
+          </e>
+          <e p="Fader.cs" t="Include" />
+          <e p="MainAnimation.cs" t="Include" />
+          <e p="Moving" t="Include">
+            <e p="Stick.cs" t="Include" />
+          </e>
+          <e p="Pool.cs" t="Include" />
+          <e p="Record.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Test.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
